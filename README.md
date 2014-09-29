@@ -12,6 +12,6 @@ celestial maps and projections, Solar System ephemerides, planar and spherical g
 and manipulation, cosmology, gravitational lensing, function fitting, general utilities, plotting utilities, statistics,
 and time series analysis.                                                                 
                                                                                                                     
-     
+Reference: If you use this toolboxes in scientific publication, please give a reference to Ofek, E.O. 2014 ascl:1407.005    
 
 
